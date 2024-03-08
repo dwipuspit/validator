@@ -1,0 +1,28 @@
+{
+  "name": "@dwipuspit/validator",
+  "version": "1.0.0",
+  "description": "validation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dwipuspit/validator.git"
+  },
+  "keywords": [
+    "validation",
+    "validator",
+    "email-validator",
+    "phone-validator"
+  ],
+  "author": "dwipuspit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dwipuspit/validator/issues"
+  },
+  "homepage": "https://github.com/dwipuspit/validator#readme",
+  "dependencies": {
+    "@takadotdev/validator": "^1.0.0"
+  }
+}
